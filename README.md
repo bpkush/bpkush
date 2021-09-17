@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bpkush
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning system architecture
-- 💞️ I’m looking to collaborate on future projects
+- 👋 Hi, I’m izo,
+- 👀 I’m interested in tech,
+- 🌱 I’m currently learning system architecture,
+- 💞️ I’m looking to collaborate on future projects.
 - 📫 
 
 <!--
